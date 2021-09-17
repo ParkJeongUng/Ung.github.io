@@ -1,1 +1,1 @@
-Sitemap: https://parkjeongung.github.io/Ung.github.io/sitemap.xml
+Sitemap: https://ung.github.io/Ung.github.io/sitemap.xml
