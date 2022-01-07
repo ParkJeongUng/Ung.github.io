@@ -61,14 +61,14 @@ pre, code {
 }
 
 table th{
-    background-color: $overlay;
-    border-color: $overlay-light;
-    color: $high-emph;
+    background-color: $low-emph;
+    border-color: $high-emph;
+    color: $med-emph;
 }
 
 table td{
-    background-color: $dark-grey;
-    border-color: $overlay-light;
+    background-color: $low-emph;
+    border-color: $high-emph;
     color: $med-emph;
 }
 
@@ -78,7 +78,7 @@ table td{
 }
 
 canvas {
-    filter: invert(100%);
+    filter: invert(70%);
 }
 
 .post-list > li > div {
