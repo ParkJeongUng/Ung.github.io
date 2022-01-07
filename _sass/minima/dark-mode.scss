@@ -78,7 +78,7 @@ table td{
 }
 
 canvas {
-    filter: invert(100%);
+    filter: $high-emph;
 }
 
 .post-list > li > div {
